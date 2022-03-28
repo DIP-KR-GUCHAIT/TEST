@@ -2,3 +2,4 @@ this is text one.
 this is test one second line
 this is test one third line
 logo alignment fixed.
+logn alignment fixed.
